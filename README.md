@@ -1,3 +1,3 @@
 # poetry
 
-Your thoughts are your poems.
+你的思想，你的诗。

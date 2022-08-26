@@ -1,17 +1,18 @@
 
 [site]
-url = "http://localhost"
+url = "https://poetries.netlify.app"
 name = "现代诗"
-description = ""
+description = "你的思想，你的诗"
 locale = "zh"
 menu = [
   { name = "关于", url = "/about" },
-  { name = "GitHub", url = "https://github.com/zineland" },
+  { name = "GitHub", url = "https://github.com/zineland/poetry" },
 ]
 
 
 [theme]
 primary_color = "#333"
+article_extend_template = "templates/article-extend.html"
 
 [authors]
 daichang = { name = "戴畅", bio = "" }
