@@ -1,0 +1,23 @@
+
+[site]
+url = "http://localhost"
+name = "现代诗"
+description = ""
+locale = "zh"
+menu = [
+  { name = "关于", url = "/about" },
+  { name = "GitHub", url = "https://github.com/zineland" },
+]
+
+
+[theme]
+primary_color = "#333"
+
+[authors]
+daichang = { name = "戴畅", bio = "" }
+
+[[issue]]
+slug = "1"
+number = 1
+title = "第一季"
+path = "content/issue-1"

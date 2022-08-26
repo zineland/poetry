@@ -1,2 +1,3 @@
 # poetry
-Your thoughts is your poems
+
+Your thoughts are your poems.
