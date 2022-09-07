@@ -16,6 +16,7 @@ article_extend_template = "templates/article-extend.html"
 
 [authors]
 daichang = { name = "戴畅", bio = "" }
+qingqiu = { name = "陶清秋", bio = "业余作者。更多：tkzt.cn/n-notes/cheap-talks/cicadas-crying.html。" }
 
 [[issue]]
 slug = "1"
