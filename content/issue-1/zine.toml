@@ -8,3 +8,13 @@ cover = ""
 pub_date = "2022-08-26"
 publish = true
 featured = true
+
+[[article]]
+slug = "霉"
+file = "霉.md"
+title = "霉"
+author = "qingqiu"
+cover = ""
+pub_date = "2022-09-07"
+publish = true
+featured = true
