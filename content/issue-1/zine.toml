@@ -18,3 +18,13 @@ cover = ""
 pub_date = "2022-09-07"
 publish = true
 featured = true
+
+[[article]]
+slug = "他开错了"
+file = "他开错了.md"
+title = "他开错了"
+author = "zhuiguang"
+cover = ""
+pub_date = "2022-09-07"
+publish = true
+featured = true
